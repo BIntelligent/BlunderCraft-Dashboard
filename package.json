@@ -1,15 +1,15 @@
 {
-  "name": "discord-oauth2",
+  "name": "blundercraft-dashboard",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon ./src/app.js",
     "start": "node ./src/app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "☠ Be Intelligent ☠#2385",
   "license": "ISC",
   "dependencies": {
     "@greencoast/logger": "^1.0.1",
