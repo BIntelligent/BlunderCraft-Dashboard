@@ -1,0 +1,8 @@
+{
+    "clientID": "773922582604939274",
+    "clientSecret": "Eka3mQJZGjNp4GyqbXBfYe_O0zp5W9ra",
+    "callbackURL": "/dashboard",
+    "scope": ["identify", "guilds", "email"],
+    "port": 3000
+
+}
